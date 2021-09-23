@@ -1,5 +1,5 @@
 # MeliDataChallenge_2021
-My Solution for the MercadoLibre 2021 Data Challenge. Currently requires lightgbm 3.1, tensorboard 2.6, Pytorch 1.8.1 + PyTorch Geometric 1.7.0 w/torch-sparse,torch-scatter (https://github.com/pyg-team/pytorch_geometric), as the custom DataLoader/Dataset interfaces helped me work faster. It can be a hassle to install, so I'll see if I can find a way around this. You may need a GPU with 10 GB VRAM, and also 16 GB RAM to run this without any problems. 
+My Solution for the MercadoLibre 2021 Data Challenge. Currently requires tqdm 4.6, lightgbm 3.1, tensorboard 2.6, Pytorch 1.8.1 + PyTorch Geometric 1.7.0 w/torch-sparse,torch-scatter (https://github.com/pyg-team/pytorch_geometric), as the custom DataLoader/Dataset interfaces helped me work faster. It can be a hassle to install, so I'll see if I can find a way around this. You may need a GPU with 10 GB VRAM, and also 16 GB RAM to run this without any problems. 
 # Video of me going over the code for 30 minutes
 https://youtu.be/TZbwB7Oh-zw
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TZbwB7Oh-zw/0.jpg)](https://www.youtube.com/watch?v=TZbwB7Oh-zw)
